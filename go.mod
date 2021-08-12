@@ -1,4 +1,4 @@
-module example.com/web-wervice-gin-gorm
+module github.com/justisGipson/go-bookshop
 
 go 1.16
 
